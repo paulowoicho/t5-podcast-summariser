@@ -27,7 +27,7 @@ You can now use the package as follows:
     summary = summariser.summarise(transcript)
     print(summary)
     
-Below is a sample summary generated on a podcast transcript available [here]([https://storycorps.org/podcast/storycorps-466-callings/](https://storycorps.org/podcast/storycorps-466-callings/)):
+Below is a sample summary generated on a podcast transcript available [here](https://storycorps.org/podcast/storycorps-466-callings/):
 
     This week on the podcast, we talk to Ayodeji Ogunnia (@Ayodeji_Ogunnia) about his life as a bricklayer in Baltimore. We also hear from one of the most famous people in the world, and how he came to be a successful bricklayer. This is a great story for anyone who wants to learn more about what it means to be a good bricklayer. If you like what we do, please leave us a review on Apple Podcasts! Thanks for listening!
 
