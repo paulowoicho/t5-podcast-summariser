@@ -1,0 +1,9 @@
+README.md
+setup.py
+t5_podcast_summariser/__init__.py
+t5_podcast_summariser/summariser.py
+t5_podcast_summariser.egg-info/PKG-INFO
+t5_podcast_summariser.egg-info/SOURCES.txt
+t5_podcast_summariser.egg-info/dependency_links.txt
+t5_podcast_summariser.egg-info/not-zip-safe
+t5_podcast_summariser.egg-info/top_level.txt
